@@ -14,10 +14,10 @@ public class DesignPattern {
 }
 
 class Developer{
-	private String name; 			// ÇÊ¼ö
-	private String gender;			// ÇÊ¼ö
-	private int age;				// ¼±ÅÃ
-	private String language;		// ¼±ÅÃ
+	private String name; 			// í•„ìˆ˜
+	private String gender;			// í•„ìˆ˜
+	private int age;			// ì„ íƒ
+	private String language;		// ì„ íƒ
 	
 	public String getName(){
 		return this.name;
